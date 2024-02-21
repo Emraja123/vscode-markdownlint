@@ -38,7 +38,7 @@ When editing a Markdown file in Code with `markdownlint` installed, any lines th
 * **[MD003](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md003.md)** *heading-style* - Heading style
 * **[MD004](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md004.md)** *ul-style* - Unordered list style
 * **[MD005](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md005.md)** *list-indent* - Inconsistent indentation for list items at the same level
-* **[MD007](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md007.md)** *ul-indent* - Unordered list indentation
+* **[MD007](https:/https://github.com/DavidAnson/vscode-markdownlint/tree/main/github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md007.md)** *ul-indent* - Unordered list indentation
 * **[MD009](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md009.md)** *no-trailing-spaces* - Trailing spaces
 * **[MD010](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md010.md)** *no-hard-tabs* - Hard tabs
 * **[MD011](https://github.com/DavidAnson/markdownlint/blob/v0.33.0/doc/md011.md)** *no-reversed-links* - Reversed link syntax
